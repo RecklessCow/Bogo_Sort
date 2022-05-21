@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\projects\\BogoSort_CSharp\\BogoSort_CSharp\\BogoSort_CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Bogo_Sort-master\\BogoSort_CSharp\\BogoSort_CSharp.csproj",
       "projectName": "BogoSort_CSharp",
-      "projectPath": "C:\\Users\\user\\Desktop\\projects\\BogoSort_CSharp\\BogoSort_CSharp\\BogoSort_CSharp.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Bogo_Sort-master\\BogoSort_CSharp\\BogoSort_CSharp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\projects\\BogoSort_CSharp\\BogoSort_CSharp\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Bogo_Sort-master\\BogoSort_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

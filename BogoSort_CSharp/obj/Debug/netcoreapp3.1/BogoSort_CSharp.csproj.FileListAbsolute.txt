@@ -12,3 +12,17 @@ C:\Users\user\Desktop\projects\BogoSort_CSharp\BogoSort_CSharp\obj\Debug\netcore
 C:\Users\user\Desktop\projects\BogoSort_CSharp\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.dll
 C:\Users\user\Desktop\projects\BogoSort_CSharp\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.pdb
 C:\Users\user\Desktop\projects\BogoSort_CSharp\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.genruntimeconfig.cache
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\bin\Debug\netcoreapp3.1\BogoSort_CSharp.exe
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\bin\Debug\netcoreapp3.1\BogoSort_CSharp.deps.json
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\bin\Debug\netcoreapp3.1\BogoSort_CSharp.runtimeconfig.json
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\bin\Debug\netcoreapp3.1\BogoSort_CSharp.runtimeconfig.dev.json
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\bin\Debug\netcoreapp3.1\BogoSort_CSharp.dll
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\bin\Debug\netcoreapp3.1\BogoSort_CSharp.pdb
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.AssemblyInfo.cs
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.dll
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.pdb
+C:\Users\user\Desktop\Bogo_Sort-master\BogoSort_CSharp\obj\Debug\netcoreapp3.1\BogoSort_CSharp.genruntimeconfig.cache

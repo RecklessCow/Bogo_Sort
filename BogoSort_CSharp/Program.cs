@@ -8,8 +8,11 @@ namespace BogoSort_CSharp
         {
             Random rand = new Random();
 
+            ulong cap = (ulong)Math.Pow(2, 63);
+
             int arrSize = Int32.Parse(Console.ReadLine());
-            int count = 0;
+            ulong count = 0;
+            ulong secondCount = 1;
             int[] arr = new int[arrSize];
 
             //filling the array with random elements;
@@ -21,16 +24,25 @@ namespace BogoSort_CSharp
             while(!isSorted(arr))
             {
                 Shuffle(rand, arr);
+
                 count++;
+
+                if(count >= cap)
+                {
+                    count = 1;
+                    secondCount++;
+                }
             }
 
             for(int i = 0; i < arr.Length; i++) 
             {
                 Console.WriteLine(arr[i]);
             }
-            Console.WriteLine("++++++++++++++++++++++++");
+            Console.WriteLine("===========");
             Console.WriteLine(count);
-            Console.ReadLine();
+            Console.WriteLine("===========");
+            Console.WriteLine(secondCount);
+            Console.ReadKey();
         }
 
         private static bool isSorted(int[] numberList)

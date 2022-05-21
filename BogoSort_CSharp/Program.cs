@@ -42,7 +42,6 @@ namespace BogoSort_CSharp
             Console.WriteLine(count);
             Console.WriteLine("===========");
             Console.WriteLine(secondCount);
-            Console.ReadKey();
         }
 
         private static bool isSorted(int[] numberList)
